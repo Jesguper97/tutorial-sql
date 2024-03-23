@@ -2,7 +2,7 @@
 # test.md
 # Ignore the .txt files
 *.txt
-
+.gitignore
 # img folder
 img/
 code/
