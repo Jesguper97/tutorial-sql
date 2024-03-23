@@ -3,6 +3,7 @@
 # Ignore the .txt files
 *.txt
 
+# ingore the .gitignore
 .gitignore
 
 # img folder
